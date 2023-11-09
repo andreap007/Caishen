@@ -54,7 +54,6 @@
 		2FDD158B1CC7B30C0086CEAC /* CardExpiryValidatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FDD158A1CC7B30C0086CEAC /* CardExpiryValidatorTests.swift */; };
 		2FDD158D1CC7B3200086CEAC /* CardNumberValidatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FDD158C1CC7B3200086CEAC /* CardNumberValidatorTests.swift */; };
 		2FDD158F1CC7B32D0086CEAC /* CardNumberFormatterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FDD158E1CC7B32D0086CEAC /* CardNumberFormatterTests.swift */; };
-		A6811D5E2AFD01420076AECE /* Package.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6811D5D2AFD01420076AECE /* Package.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -424,7 +423,6 @@
 				2FDD157B1CC7B1AC0086CEAC /* NumberInputTextFieldDelegate.swift in Sources */,
 				2FDD15691CC7B1AC0086CEAC /* Discover.swift in Sources */,
 				2FDD15841CC7B1AC0086CEAC /* UITextField+Extensions.swift in Sources */,
-				A6811D5E2AFD01420076AECE /* Package.swift in Sources */,
 				2FDD15681CC7B1AC0086CEAC /* DinersClub.swift in Sources */,
 				08A9C6CC1CC980BD00B5C4D7 /* Localization.swift in Sources */,
 				2FDD15781CC7B1AC0086CEAC /* CardTypeImageStore.swift in Sources */,
