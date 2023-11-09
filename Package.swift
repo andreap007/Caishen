@@ -17,7 +17,7 @@ let package = Package(
         .target(
             name: "Caishen",
             dependencies: [],
-            path: "CaishenTests"
+            path: "Pod/Classes"
         ),
     ]
 )
