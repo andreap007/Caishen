@@ -6,6 +6,8 @@
 //  Copyright © 2016 Prolific Interactive. All rights reserved.
 //
 
+import UIKit
+
 extension CardTextField {
     override public final var textColor: UIColor? {
         didSet {
