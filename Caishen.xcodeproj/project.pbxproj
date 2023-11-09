@@ -54,6 +54,7 @@
 		2FDD158B1CC7B30C0086CEAC /* CardExpiryValidatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FDD158A1CC7B30C0086CEAC /* CardExpiryValidatorTests.swift */; };
 		2FDD158D1CC7B3200086CEAC /* CardNumberValidatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FDD158C1CC7B3200086CEAC /* CardNumberValidatorTests.swift */; };
 		2FDD158F1CC7B32D0086CEAC /* CardNumberFormatterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FDD158E1CC7B32D0086CEAC /* CardNumberFormatterTests.swift */; };
+		A6811D5E2AFD01420076AECE /* Package.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6811D5D2AFD01420076AECE /* Package.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -119,6 +120,7 @@
 		2FDD158A1CC7B30C0086CEAC /* CardExpiryValidatorTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardExpiryValidatorTests.swift; sourceTree = "<group>"; };
 		2FDD158C1CC7B3200086CEAC /* CardNumberValidatorTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardNumberValidatorTests.swift; sourceTree = "<group>"; };
 		2FDD158E1CC7B32D0086CEAC /* CardNumberFormatterTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardNumberFormatterTests.swift; sourceTree = "<group>"; };
+		A6811D5D2AFD01420076AECE /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +145,7 @@
 		2FDD15061CC7B0B90086CEAC = {
 			isa = PBXGroup;
 			children = (
+				A6811D5D2AFD01420076AECE /* Package.swift */,
 				2FDD15121CC7B0B90086CEAC /* Caishen */,
 				2FDD151E1CC7B0B90086CEAC /* CaishenTests */,
 				2FDD15111CC7B0B90086CEAC /* Products */,
@@ -379,6 +382,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 2FDD15061CC7B0B90086CEAC;
@@ -420,6 +424,7 @@
 				2FDD157B1CC7B1AC0086CEAC /* NumberInputTextFieldDelegate.swift in Sources */,
 				2FDD15691CC7B1AC0086CEAC /* Discover.swift in Sources */,
 				2FDD15841CC7B1AC0086CEAC /* UITextField+Extensions.swift in Sources */,
+				A6811D5E2AFD01420076AECE /* Package.swift in Sources */,
 				2FDD15681CC7B1AC0086CEAC /* DinersClub.swift in Sources */,
 				08A9C6CC1CC980BD00B5C4D7 /* Localization.swift in Sources */,
 				2FDD15781CC7B1AC0086CEAC /* CardTypeImageStore.swift in Sources */,
