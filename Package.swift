@@ -17,7 +17,7 @@ let package = Package(
         .target(
             name: "Caishen",
             dependencies: [],
-            path: "Caishen/CaishenTests"
+            path: "CaishenTests"
         ),
     ]
 )
